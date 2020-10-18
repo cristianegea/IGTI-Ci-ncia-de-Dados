@@ -1,1 +1,1 @@
-# IGTI-Ci-ncia-de-Dados
+# Repositório com os arquivos utilizados no Bootcamp Cientista de Dados do IGTI
